@@ -2,15 +2,21 @@ const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema(
   {
-    full_name: {
+    name: {
       type: String,
       require,
     },
+    email: {
+      type: String,
+      require,
+      unique: true,
+    },
     phone: {
-      type: Number,
+      type: String,
+      require,
       min: 10,
       max: 10,
-      require,
+      unique: true,
     },
     password: {
       type: String,
@@ -23,6 +29,15 @@ const userSchema = new mongoose.Schema(
         type: String,
       },
     ],
+    cart: {
+      type: mongoose.Types.ObjectId,
+      ref: 'Cart',
+    },
+    //user email
+    email: {
+      type: String,
+      require,
+    },
     //user role (true - normal user, false - admin)
     role: {
       type: Boolean,

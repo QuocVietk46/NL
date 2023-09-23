@@ -1,19 +1,31 @@
 const mongoose = require('mongoose');
-const User = require('./userModel');
-const Product = require('./productModel');
-const OrderDetail = require('./orderDetailModel');
 
 const orderSchema = new mongoose.Schema({
   user: {
     type: mongoose.Types.ObjectId,
-    ref: User,
+    ref: 'User',
     require,
   },
-  detail: [
+  products: [
     {
-      type: mongoose.Types.ObjectId,
-      ref: OrderDetail,
-      require,
+      product: {
+        type: mongoose.Types.ObjectId,
+        ref: 'Product',
+        require,
+      },
+      color: {
+        type: mongoose.Types.ObjectId,
+        ref: 'Color',
+        require,
+      },
+      sale: {
+        type: Number,
+        require,
+      },
+      amount: {
+        type: Number,
+        require,
+      },
     },
   ],
   status: {
@@ -21,12 +33,17 @@ const orderSchema = new mongoose.Schema({
     enum: ['pending', 'success', 'delivery', 'fail'],
     require,
   },
-  date_order: {
+  order_date: {
     type: Date,
     require,
   },
-  date_deliver: {
+  delivery_date: {
     type: Date,
+    validate(value) {
+      if (value < this.order_date) {
+        throw new Error('Delivery date must be greater than order date');
+      }
+    },
   },
 });
 

@@ -1,0 +1,478 @@
+[
+  {
+    "title": "Quần short nam",
+    "describe": "Quần short nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "shorts",
+    "price": 100000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Ao thun nam",
+    "describe": "Ao thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "t-shirts",
+    "price": 120000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Áo khoác vải dù",
+    "describe": "Áo khoác vải dù khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "jackets",
+    "price": 200000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Áo khoác da nam",
+    "describe": "Áo khoác da nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "jackets",
+    "price": 250000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Áo khoác da nữ",
+    "describe": "Áo khoác da nữ khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "jackets",
+    "price": 300000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Quần jean nam",
+    "describe": "Quần jean nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, khôn",
+    "category": "pants",
+    "price": 510000,
+    "status": "unavailable",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Quần tây học sinh",
+    "describe": "Quần tây học sinh khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, không nhăn không nhàu, không bai dão, không nhăn không nhàu",
+    "category": "pants",
+    "price": 120000,
+    "status": "stopped",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "Quần short da bò",
+    "describe": "Quần short da bò khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão, không nhăn không nhàu, không bai dão, không nhăn không nhàu",
+    "category": "shorts",
+    "price": 150000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  },
+  {
+    "title": "ao thun",
+    "describe": "Áo thun nam khô thoáng, thấm hút mồ hôi tốt, chất liệu vải mềm mại, co giãn tốt, không xù lông, không phai màu, không bai dão",
+    "category": "t-shirts",
+    "price": 10000,
+    "status": "available",
+    "images": [
+      {
+        "filename": "1695458295994-download.jpg",
+        "path": "public\\assets\\1695458295994-download.jpg",
+        "_id": "650ea3f88278a6fdb8ad808b"
+      }
+    ]
+  }
+]

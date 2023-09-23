@@ -1,16 +1,24 @@
 const mongoose = require('mongoose');
-const Image = require('./imageModel');
-const Comment = require('./commentModel');
-const User = require('./userModel');
 
 const productSchema = new mongoose.Schema(
   {
-    name: {
+    title: {
       type: String,
       require,
     },
+    details: [
+      {
+        type: mongoose.Types.ObjectId,
+        ref: 'DetailProduct',
+      },
+    ],
     describe: {
       type: String,
+      require,
+    },
+    category: {
+      type: String,
+      enum: ['shorts', 'pants', 't-shirts', 'jackets'],
       require,
     },
     price: {
@@ -22,26 +30,31 @@ const productSchema = new mongoose.Schema(
     },
     status: {
       type: String,
-      enum: ['available', 'unavailable', 'stop'],
+      enum: ['available', 'unavailable', 'stopped'],
       require,
     },
-    image: [
+    images: [
       {
-        type: mongoose.Types.ObjectId,
-        ref: Image,
-        require,
+        filename: {
+          type: String,
+          require,
+        },
+        path: {
+          type: String,
+          require,
+        },
       },
     ],
-    rate: [
+    rates: [
       {
         type: mongoose.Types.ObjectId,
-        ref: User,
+        ref: 'Rate',
       },
     ],
-    comment: [
+    comments: [
       {
         type: mongoose.Types.ObjectId,
-        ref: Comment,
+        ref: 'Comment',
       },
     ],
   },

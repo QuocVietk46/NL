@@ -1,29 +1,25 @@
 const mongoose = require('mongoose');
-const Image = require('./imageModel');
-const Rate = require('./rateModel');
-const User = require('./userModel');
 
 const commentSchema = new mongoose.Schema({
   user: {
     type: mongoose.Types.ObjectId,
-    ref: User,
+    ref: 'User',
     require,
   },
-  rate: {
+  product: {
     type: mongoose.Types.ObjectId,
-    ref: Rate,
+    ref: 'Product',
+    require,
   },
-  image: [
-    {
-      type: mongoose.Types.ObjectId,
-      ref: Image,
-    },
-  ],
   content: {
     type: String,
     require,
   },
+  rate: {
+    type: mongoose.Types.ObjectId,
+    ref: 'Rate',
+  },
 });
 
-const Comment = mongoose.model('Comment', commentSchema);
-module.exports = Comment;
+const Comments = mongoose.model('Comments', commentSchema);
+module.exports = Comments;
